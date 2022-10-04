@@ -1,0 +1,5 @@
+1) Directory listing: LOAD"$",8
+
+2) Load PRG: LOAD"HELLO WORLD!",8,1 (secondary address omitted on the C128)
+
+3) Scratch file: OPEN 15,8,15,"S:DELETE ME":CLOSE 15
